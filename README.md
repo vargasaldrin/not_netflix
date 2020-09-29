@@ -1,3 +1,9 @@
+### not_netflix
+
+This project's purpose is to clone the Netflix web app using React, React-Router for routing and Firebase for database storage and authentication.
+
+To see image previews of the web app, go to screenshots folder
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
